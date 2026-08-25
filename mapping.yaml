@@ -54,6 +54,7 @@ languages:
     - russian_student
     - russian_yavert
     - russian_yazhert
+    - cyrillic_typographic
   be_Latn:
     - belarusian_latin
     - belarusian_latin2
@@ -218,6 +219,7 @@ languages:
     - workman
     - kasroz
     - clearflow
+    - polish_english_typographic
   enf:
     - enets
   enh:
@@ -690,6 +692,7 @@ languages:
     - nordic
     - kasroz
     - clearflow
+    - polish_english_typographic
   pt_BR:
     - spanish
     - qwerty
@@ -737,6 +740,7 @@ languages:
     - russian_student
     - russian_yavert
     - russian_yazhert
+    - cyrillic_typographic
   rut:
     - north_caucasian
   sah:
@@ -891,6 +895,7 @@ languages:
     - russian_student
     - russian_yavert
     - russian_yazhert
+    - cyrillic_typographic
   ur:
     - urdu_phonetic
   uz_UZ:
