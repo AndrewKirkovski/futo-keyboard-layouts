@@ -73,6 +73,10 @@ altPages:
       - "₴"   # HRYVNIA SIGN
       - "−"   # MINUS SIGN
       - "⌀"   # DIAMETER SIGN
+      - $gap
+      - $gap
+      - $gap
+      - $gap
     - attributes: {moreKeyMode: OnlyExplicit}
       letters:
       - "⌃"   # UP ARROWHEAD
@@ -80,6 +84,10 @@ altPages:
       - {type: base, spec: "␣|\u2009", hint: "thin"}   # THIN SPACE
       - {type: base, spec: "‧|\u00AD", hint: "shy"}   # SOFT HYPHEN
       - {type: base, spec: "‑|\u2011", hint: "nbhy"}   # NON-BREAKING HYPHEN
+      - $gap
+      - $gap
+      - $gap
+      - $gap
       - $delete
     - bottom:
       - $symbols
