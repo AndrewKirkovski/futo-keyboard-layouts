@@ -55,6 +55,7 @@ languages:
     - russian_yavert
     - russian_yazhert
     - cyrillic_typographic
+    - cyrillic_plain
   be_Latn:
     - belarusian_latin
     - belarusian_latin2
@@ -189,6 +190,7 @@ languages:
     - kasroz
     - clearflow
     - polish_english_typographic
+    - polish_english_plain
   en_IN:
     - qwerty
     - qwertz
@@ -204,6 +206,7 @@ languages:
     - kasroz
     - clearflow
     - polish_english_typographic
+    - polish_english_plain
   en_Shaw:
     - shavian
     - shavian_two_layer
@@ -222,6 +225,7 @@ languages:
     - kasroz
     - clearflow
     - polish_english_typographic
+    - polish_english_plain
   enf:
     - enets
   enh:
@@ -695,6 +699,7 @@ languages:
     - kasroz
     - clearflow
     - polish_english_typographic
+    - polish_english_plain
   pt_BR:
     - spanish
     - qwerty
@@ -743,6 +748,7 @@ languages:
     - russian_yavert
     - russian_yazhert
     - cyrillic_typographic
+    - cyrillic_plain
   rut:
     - north_caucasian
   sah:
@@ -898,6 +904,7 @@ languages:
     - russian_yavert
     - russian_yazhert
     - cyrillic_typographic
+    - cyrillic_plain
   ur:
     - urdu_phonetic
   uz_UZ:
